@@ -1,0 +1,8 @@
+rootProject.name = "auction_bid_tracker"
+
+// application
+include "application:core"
+include "application:dataproviders"
+include "application:entrypoints"
+include "application:configuration"
+
